@@ -1,0 +1,1 @@
+/* un array es un conjunto de datos */
